@@ -5,3 +5,6 @@
 #####heading 5
 ######heading 6
 Testing github
+
+**this is bold text** <br/>
+*this is italia*
